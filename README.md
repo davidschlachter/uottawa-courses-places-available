@@ -3,7 +3,3 @@ Script to automatically check for places available for classes at uOttawa. Made 
 
 ## Usage
 Edit the variables in the bash script, and run it at intervals (e.g. with cron).
-
-## To do:
-- Customizable action on change detection
-- More reliable change detection (currently does return some false positives)
